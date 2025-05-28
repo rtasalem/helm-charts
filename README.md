@@ -1,4 +1,4 @@
-# Helm Chart Repository
+# helm-charts
 
 Self-hosted Helm chart repo deployed via GitHub pages.
 
@@ -11,6 +11,10 @@ Please refer to the [index](https://github.com/rtasalem/helm-charts/blob/gh-page
 ```
 git clone https://github.com/rtasalem/helm-charts.git
 ```
-2. Copy Helm chart into `charts` directory.
-3. Open a PR if needed and review then squash & merge.
-4. GitHub Actions will take care of releasing and deplying GitHub pages.
+2. Check out to `gh-pages` branch:
+```
+git checkout gh-pages
+```
+3. Copy Helm chart into `charts` directory.
+4. Puch to the `gh-pages` branch.
+5. GitHub Actions will take care of releasing and deplying GitHub pages.
