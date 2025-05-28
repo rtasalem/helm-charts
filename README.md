@@ -6,7 +6,7 @@ GitHub repo: [github.com/rtasalem/helm-charts](https://github.com/rtasalem/helm-
 
 ## Releases
 
-Please refer to the [index.yaml](https://github.com/rtasalem/helm-charts/blob/gh-pages/index.yaml) for details on all Helm charts in this repository.
+Please refer to the [index](https://github.com/rtasalem/helm-charts/blob/gh-pages/index.yaml) for details on all Helm charts in this repository.
 
 ## Add Helm chart to repository
 
@@ -26,4 +26,4 @@ git checkout gh-pages
 
 The GitHub action responsible for handling releases and deployments is taken from the [Helm docs](https://helm.sh/docs/howto/chart_releaser_action/#github-actions-workflow).
 
-Using the chart releaser action provided by Helm, this repository has 2 branches: `main` which contains the source code for all Helm charts and `gh-pages` which hosts the published charts and the `index.yaml`.
+Using the chart releaser action provided by Helm, this repository has 2 branches: `main` which contains the source code for all Helm charts and `gh-pages` which hosts the published charts, the `index.yaml`, and deployed to GitHub pages..
