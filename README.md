@@ -1,6 +1,6 @@
- helm-charts
+# helm-charts
 
-Self-hosted Helm chart repo deployed via GitHub pages: [helm.ranasalem.io](https://helm.ranasalem.io).
+Helm chart repo deployed via GitHub pages: [helm.ranasalem.io](https://helm.ranasalem.io).
 
 GitHub repo: [github.com/rtasalem/helm-charts](https://github.com/rtasalem/helm-charts).
 
