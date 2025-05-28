@@ -1,4 +1,4 @@
- helm-charts
+# helm-charts
 
 Self-hosted Helm chart repo deployed via GitHub pages: [helm.ranasalem.io](https://helm.ranasalem.io).
 
