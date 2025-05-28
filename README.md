@@ -2,6 +2,8 @@
 
 Self-hosted Helm chart repo deployed via GitHub pages: [helm.ranasalem.io](https://helm.ranasalem.io).
 
+GitHub repo: [github.com/rtasalem/helm-charts](https://github.com/rtasalem/helm-charts).
+
 ## Releases
 
 Please refer to the [index.yaml](https://github.com/rtasalem/helm-charts/blob/gh-pages/index.yaml) for details on all Helm charts in this repository.
