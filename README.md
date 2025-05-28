@@ -1,6 +1,6 @@
 # helm-charts
 
-Self-hosted Helm chart repo deployed via GitHub pages.
+Helm chart repo deployed via GitHub pages.
 
 ## Releases
 
